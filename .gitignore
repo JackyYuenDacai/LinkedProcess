@@ -1,0 +1,5 @@
+#build file
+.cxx/
+*.o
+build/
+CMakeFiles/
